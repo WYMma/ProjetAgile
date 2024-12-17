@@ -1,0 +1,6 @@
+@Baladiti_HostAddress = http://localhost:5089
+
+GET {{Baladiti_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

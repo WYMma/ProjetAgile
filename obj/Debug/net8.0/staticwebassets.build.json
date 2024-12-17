@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "vtKSU9KAY+hAK7IHROSm8wqIqH/so8yrNkwi3EMn1rE=",
+  "Source": "Baladiti",
+  "BasePath": "_content/Baladiti",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Baladiti\\wwwroot",
+      "Source": "Baladiti",
+      "ContentRoot": "C:\\Users\\Jacem\\source\\repos\\Baladiti\\Baladiti\\wwwroot\\",
+      "BasePath": "_content/Baladiti",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jacem\\source\\repos\\Baladiti\\Baladiti\\wwwroot\\images\\img5.png",
+      "SourceId": "Baladiti",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jacem\\source\\repos\\Baladiti\\Baladiti\\wwwroot\\",
+      "BasePath": "_content/Baladiti",
+      "RelativePath": "images/img5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img5.png"
+    },
+    {
+      "Identity": "C:\\Users\\Jacem\\source\\repos\\Baladiti\\Baladiti\\wwwroot\\images\\msiMouse.png",
+      "SourceId": "Baladiti",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jacem\\source\\repos\\Baladiti\\Baladiti\\wwwroot\\",
+      "BasePath": "_content/Baladiti",
+      "RelativePath": "images/msiMouse.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\msiMouse.png"
+    }
+  ]
+}

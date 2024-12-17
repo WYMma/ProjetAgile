@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\Baladiti\\Baladiti\\wwwroot\\images\\img5.png",
+      "PackagePath": "staticwebassets\\images\\img5.png"
+    },
+    {
+      "Id": "C:\\Users\\Jacem\\source\\repos\\Baladiti\\Baladiti\\wwwroot\\images\\msiMouse.png",
+      "PackagePath": "staticwebassets\\images\\msiMouse.png"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.Baladiti.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.Baladiti.props",
+      "PackagePath": "build\\Baladiti.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Baladiti.props",
+      "PackagePath": "buildMultiTargeting\\Baladiti.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.Baladiti.props",
+      "PackagePath": "buildTransitive\\Baladiti.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
