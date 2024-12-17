@@ -4,7 +4,7 @@ import '../models/user.dart';
 import '../models/report.dart';
 
 class ApiService {
-  static const String baseUrl = "http://your-api-url.com";
+  static const String baseUrl = "https://baladity-bxghb0hdhfdka6fy.italynorth-01.azurewebsites.net/api";
 
   // Register User
   Future<bool> registerUser(User user) async {
